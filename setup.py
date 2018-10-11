@@ -47,7 +47,7 @@ setup(
     license="MIT License",
     author="Sean McVeigh",
     author_email="spmcveigh@gmail.com",
-    description="validators for isinstance and issubclass",
+    description="validators for isinstance(...) and issubclass(...)",
     install_requires=install_requirements,
     setup_requires=setup_requirements,
     # extras_require=extra_requirements,
